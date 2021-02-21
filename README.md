@@ -24,3 +24,5 @@ You can disable some elements for phone by adding css-class "pc" and disable som
 - Fork and change index.html with the content and links you need
 - Remove unnecessary folders (e. g. screenshots)
 - Go to Settings -> GitHub pages
+- Set main as a source and click save
+- That's it. It's available under yourusername.github.io/MinimalismSinglePageWebsiteTemplate. Rename the repo or buy a domain to make sure, that your website's domain looks cool.
