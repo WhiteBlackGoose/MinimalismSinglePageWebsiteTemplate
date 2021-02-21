@@ -1,0 +1,37 @@
+ @media (prefers-color-scheme: light) {
+    .main {
+        color: #474747;
+        background-color: white;
+    }
+    
+    a {
+        color: purple;
+    }
+    
+    a:hover {
+        color: red;
+    }
+    
+    .anchor {
+        color: #474747;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .main {
+        color: #A7A7A7;
+        background-color: #1F1F1F;
+    }
+    
+    a {
+        color: pink;
+    }
+    
+    a:hover {
+        color: white;
+    }
+    
+    .anchor {
+        color: #A7A7A7;
+    }
+}
